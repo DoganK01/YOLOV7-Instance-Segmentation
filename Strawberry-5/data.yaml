@@ -1,0 +1,18 @@
+names:
+- Angular Leafspot
+- Anthracnose Fruit Rot
+- Blossom Blight
+- Gray Mold
+- Leaf Spot
+- Powdery Mildew Fruit
+- Powdery Mildew Leaf
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: strawberry-igbeg
+  url: https://universe.roboflow.com/doan-keskin/strawberry-igbeg/dataset/5
+  version: 5
+  workspace: doan-keskin
+test: ../test/images
+train: Strawberry-5/train/images
+val: Strawberry-5/valid/images
